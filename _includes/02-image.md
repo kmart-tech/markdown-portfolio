@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A totally legit picture of Kevin Martinsen](https://pbs.twimg.com/profile_images/3079796814/ed56a6192516dae38045f1b2c66f92dd.png)
