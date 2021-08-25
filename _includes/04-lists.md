@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Cool things I like:
+- eating beef pho
+- its really good
+- like 💯
