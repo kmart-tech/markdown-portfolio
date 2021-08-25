@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I really like **BOLD** stuff and other *things*. I sure hope my instructors don't see this. That would be _**embarassing**_. :suspect:
